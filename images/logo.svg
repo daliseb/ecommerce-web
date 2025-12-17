@@ -5,19 +5,19 @@
       font-family: 'Helvetica Neue', Arial, sans-serif;
       font-size: 110px;
       font-weight: 700;
-      fill: #00875a;
+      fill: #ffc0cb;
       letter-spacing: -8px;
     }
     .shop-text {
       font-family: 'Helvetica Neue', Arial, sans-serif;
       font-size: 48px;
       font-weight: 300;
-      fill: #1a1a1a;
+      fill: #d16c8c;
       letter-spacing: 24px;
     }
   </style>
   
-  <!-- "grocery" text -->
+  <!-- "Dalis' grocery" text -->
   <text x="10" y="110" class="easy-text">grocery</text>
   
   <!-- "app" text -->
