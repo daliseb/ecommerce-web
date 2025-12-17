@@ -17,7 +17,7 @@
     }
   </style>
   
-  <!-- "Dalis' grocery" text -->
+  <!-- "grocery" text -->
   <text x="10" y="110" class="easy-text">grocery</text>
   
   <!-- "app" text -->
